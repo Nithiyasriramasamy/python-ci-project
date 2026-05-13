@@ -7,7 +7,7 @@ phases:
 
   build:
     commands:
-      - echo Build Started
+      - echo "Build Started"
       - python app.py
 
 artifacts:
