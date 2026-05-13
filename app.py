@@ -1,1 +1,1 @@
-print("Hello CI Pipeline")
+print("Automatic Pipeline Trigger Successful")
