@@ -1,6 +1,6 @@
 print("Simple Calculator")
 
-a = 10
+a = 20
 b = 5
 
 print("First Number:", a)
